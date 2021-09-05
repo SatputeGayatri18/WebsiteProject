@@ -1,0 +1,16 @@
+.head{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.main{
+    background-color: bisque;
+}
+.dhead{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+.pad{
+    padding-left: 550px;
+    
+}
