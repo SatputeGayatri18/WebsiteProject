@@ -491,7 +491,7 @@ background-color: lightgrey;}
 
 /* Main content */
 .main {
-  margin-left: 200px; /* Same as the width of the sidenav */
+  margin-left: 200px; 
   font-size: 20px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
